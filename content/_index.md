@@ -2,19 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Hola, mi nombre es [Charlie Do Amaral](https://charlie-do-amaral.netlify.app), soy CO-Fundador de **10x Faster for Data Science**, nuestro objetivo es proporcionarte conocimientos y herramientas que te inspiren a concretar tus sueños de ser científico de datos.
 image_left: true
 images:
-- img/revoir.jpg
+- img/revoir.png
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Pioneros en Bolivia en formación en Ciencia de Datos
 text_align_left: false
-title: Hugo Apéro
+title: 10x Faster for Data Science
 type: home
 ---
 
