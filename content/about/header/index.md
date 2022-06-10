@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hola, mi nombre es Charlie Do Amaral, un gusto tenerte aquí.
+  Hola, un gusto tenerte aquí.
 ---
 
 <!-- this is a subheadline -->

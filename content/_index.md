@@ -8,9 +8,9 @@ images:
 - img/revoir.png
 show_action_link: true
 show_social_links: true
-subtitle: Pioneros en Bolivia en formación en Ciencia de Datos
+subtitle: Científico de Datos Senior
 text_align_left: false
-title: 10x Faster for Data Science
+title: Charlie Do Amaral
 type: home
 ---
 
