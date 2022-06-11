@@ -6,10 +6,10 @@ description: Hola, mi nombre es [Charlie Do Amaral](https://charlie-do-amaral.ne
 image_left: true
 images:
 - img/revoir.png
-show_action_link: true
+show_action_link: false
 show_social_links: true
 subtitle: Científico de Datos Senior
-text_align_left: false
+text_align_left: true
 title: Charlie Do Amaral
 type: home
 ---

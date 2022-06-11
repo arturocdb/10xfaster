@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "Porqué ciencia de datos?" # leave blank to exclude
+title: "Donde comenzó todo?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
@@ -11,7 +11,7 @@ intro: |
   I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Mi más sincera gratitud a mi mentor [Luis Fernando Parada G.](https://www.linkedin.com/in/f3rnando-parada/) por inspirarme!
 ---
 
 ** index doesn't contain a body, just front matter above.
