@@ -1,11 +1,9 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: Puedes ponerte en contácto conmigo al número +(591) 73157424, o al correo `arturocdb@gmail.com`. También puedes enviarme un mensaje mediante LinkedIn usando el ícono de abajo.
 draft: false
 formspree_form_id: arturocdb@gmail.com
-layout: split-right
+layout: 
 name: Contact Us Form
 show_poweredby_formspree: false
 show_social_links: true
@@ -15,8 +13,6 @@ type: form
 url: contact
 ---
 
-** Contact page don't contain a body, just the front matter above.
-See form.html in the layouts folder.
+Puedes ponerte en contácto conmigo al número +(591) 73157424, o al correo `arturocdb@gmail.com`. También puedes enviarme un mensaje mediante LinkedIn usando el ícono de abajo. 
 
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.
-**
+Estaré complacido de abordar juntos alguna temática.
