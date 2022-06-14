@@ -106,19 +106,19 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-  [[menu.header]]
-    name = "Proyectos"
-    title = "Portafolio Proyectos"
-    url = "/project/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Proyectos"
+#    title = "Portafolio Proyectos"
+#    url = "/project/"
+#    weight = 3
   [[menu.header]]
     name = "Charlas"
     title = "Charlas"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "Academia"
-    title = "Academia"
+    name = "Proyectos"
+    title = "Proyectos"
     url = "/collection/"
     weight = 5
     
