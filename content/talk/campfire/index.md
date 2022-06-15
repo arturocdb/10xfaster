@@ -17,6 +17,8 @@ subtitle: Una hoja de ruta para prepararte para tu certificación.
 title: Quiero ser científico de datos
 ---
 
-Estaré encantando de comentarte sobre mi experiencia en como me convertí en científico de datos. Tambien tendremos como invitados a dos científicos de datos de nuestro medio (Luis Fernando Parada G. y Ayar Yuman Paco Sanizo).
+Estaré encantando de comentarte sobre mi experiencia en como me convertí en científico de datos. Tambien tendremos como invitados a dos científicos de datos de nuestro medio (**Luis Fernando Parada G.** y **Ayar Yuman Paco Sanizo**).
 
 Trazaremos una hoja de ruta para que sigas el camino el correcto para conseguir tu sueño de ser científico de datos.
+
+Acceso al video en Youtube -> [Aquí](https://www.youtube.com/watch?v=k-_b5L37Qko&t=266s)
