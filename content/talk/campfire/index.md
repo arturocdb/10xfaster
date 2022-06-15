@@ -1,29 +1,22 @@
 ---
 author: Charlie Do Amaral
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- webinar
+date: "2021-03-03"
+date_end: "2021-03-03"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+event: Evento vía zoom
+event_url: 
+excerpt: Hablaremos sobre las oportunidades de la nueva profesión y el camino a tomar
+  para tu hoja de ruta hacia tu certificación.
 featured: true
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+location: Santa Cruz, Bolivia
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: Una hoja de ruta para prepararte para tu certificación.
+title: Quiero ser científico de datos
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+Estaré encantando de comentarte sobre mi experiencia en como me convertí en científico de datos. Tambien tendremos como invitados a dos científicos de datos de nuestro medio (Luis Fernando Parada G. y Ayar Yuman Paco Sanizo).
+
+Trazaremos una hoja de ruta para que sigas el camino el correcto para conseguir tu sueño de ser científico de datos.
