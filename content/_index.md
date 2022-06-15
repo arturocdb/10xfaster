@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hola, mi nombre es [Charlie Do Amaral](https://charlie-do-amaral.netlify.app), soy CO-Fundador de `10x Faster for Data Science`, mi objetivo es proporcionarte conocimientos y herramientas de `Machine Learninng` fáciles de comprender, accesibles y que te inspiren a concretar tus sueños de ser científico de datos.
+description: Bienvenido, `10x Faster for Data Science`, un espacio para difundir ideas y conocimientos en ciencia de datos, estadística, machine learning y ramas relacionadas. Somos pioneros en Bolivia en formar a las primeras generaciones de científicos de datos.
 image_left: true
 images:
 - img/revoir.png
 show_action_link: false
 show_social_links: true
-subtitle: Científico de Datos Senior
+subtitle: Avanzado para científicos de datos, fácil para todos los demás.
 text_align_left: true
-title: Charlie Do Amaral
+title: Estadística y Ciencia de Datos
 type: home
 ---
 

@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Avanzado para científicos de datos, simple para todos los demás.
+  Espacio para compartir ideas y conocimiento en Ciencia de Datos y Estadística.
 show_header: true
 sidebar_left: true
 title: About

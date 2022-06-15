@@ -1,7 +1,7 @@
-baseURL = "https://charlie-doamaral.netlify.app/"
+baseURL = "https://10xfaster.netlify.app/"
 theme = "hugo-apero"
-languageCode = "en"
-title = "Charlie Do Amaral"
+languageCode = "es"
+title = "10x Faster for Data Science"
 author = "Charlie Do Amaral"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -97,8 +97,8 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Acerca de mí"
-    title = "Acerca de mí"
+    name = "Acerca de"
+    title = "Acerca de"
     url = "/about/"
     weight = 1
   [[menu.header]]

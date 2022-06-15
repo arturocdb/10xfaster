@@ -9,4 +9,4 @@ headline: |
 <!-- this is a subheadline -->
 Esta iniciativa es orgullosamente hecha en. :bolivia: 
 
-Soy Lic. en Administración y Dirección de Empresas con especialidad en Estadística. Recibí mi licenciatura en la `Universidad Autónoma de Barcelona`. En los últimos años alcancé mi objetivo de convertirme en **científico de datos**.
+Somos [Charlie Do Amaral B.](https://charlie-do-amaral.netlify.app) y [Luis Fernando Parada G.](https://fernando-parada.netlify.app) Co-fundadores de `10x Faster for Data Science`, 
