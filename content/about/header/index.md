@@ -9,4 +9,4 @@ headline: |
 <!-- this is a subheadline -->
 Esta iniciativa es orgullosamente hecha en. :bolivia: 
 
-Somos [Charlie Do Amaral B.](https://charlie-do-amaral.netlify.app) y [Luis Fernando Parada G.](https://fernando-parada.netlify.app) Co-fundadores de `10x Faster for Data Science`, 
+Somos [Charlie Do Amaral B.](https://charlie-do-amaral.netlify.app) y [Luis Fernando Parada G.](https://fernando-parada.netlify.app) Co-fundadores de `10x Faster for Data Science`, apasionados por la ciencia de datos y estadística.
