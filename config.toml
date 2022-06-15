@@ -89,6 +89,14 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/c/Estadistiqueando/featured"
+  [[params.social]]
+      icon      = "facebook" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.facebook.com/Aula-Estad%C3%ADstica-108246107413856"      
 [taxonomies]
   category = "categories"
   series = "series"
