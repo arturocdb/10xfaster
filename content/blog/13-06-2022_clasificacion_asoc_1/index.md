@@ -31,6 +31,7 @@ Sea `\(D=\{t_{1},t_{2}...,t_{m}\}\)` un conjunto de transacciones llamada _datab
 Una regla de ejemplo para el supermercado podría ser `\(\{leche, pan\} \Rightarrow \{mantequilla\}\)` que significa que si compra leche y pan, los clientes también pueden comprar mantequilla.
 
 ![Transacciones](01.png)
+
 Una regla se define cómo una expresión `\(X\Rightarrow Y\)`. `\(X\)` e `\(Y\)` se denominan antecedente (lado izquierdo o LHS) y consecuente (lado derecho o RHS) d ela regla. A menudo, las reglas se limitan a un solo elemento en el consecuente. Las reglas de asociación son reglas que cumplen con los umbrales mínimos de soporte y confianza mínimos especificados por el usuario. 
 
 El soporte `\(supp(X)\)` d eun conjunto de elementos `\(X\)` es una medida de importancia definida cómo la proporción de transacciones en el conjunto de datos que contienen el conjunto de elementos. La confianza de una regla se define como `\(conf(X\Rightarrow Y)=supp(XUY)/supp(X)\)`, midiendo la probabilidad de ver `\(Y\)` en una transacción que contiene `\(X\)`.
