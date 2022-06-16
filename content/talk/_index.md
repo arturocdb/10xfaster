@@ -11,7 +11,7 @@ cascade:
     text_link_label: Ver charlas recientes
     text_link_url: /talk/
 description: |
-  Eventos a los que me invitaron a presentar, compartidos junto con colegas, videos y otros recursos enlazables.
+  Eventos a los que nos invitaron a presentar, workshops compartidos junto a colegas, y otros eventos relacionados.
 layout: list
 show_author_byline: true
 show_button_links: true
