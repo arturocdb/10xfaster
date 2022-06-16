@@ -5,8 +5,8 @@ cascade:
   sidebar:
     author: Charlie Do Amaral
     description: "Nuestro portafolio de proyectos incluye recursos educativos que
-      \nmeant hemos creado o proyectos que implementamos en consultorías, \nminus
-      ya sea directamente o en colaboración.\n"
+      hemos creado o proyectos que implementamos en consultorías, ya sea 
+      directamente o en colaboración.\n"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
