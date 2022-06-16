@@ -5,7 +5,7 @@ description: |
   Espacio para compartir ideas y conocimiento en Ciencia de Datos y Estadística.
 show_header: true
 sidebar_left: true
-title: About
+title: Acerca de
 ---
 
 ** index doesn't contain a body, just front matter above.

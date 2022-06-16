@@ -3,7 +3,7 @@
 title: "Te comentamos sobre nosotros" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
  En 2018 nace **10x Faster for Data Science**, iniciativa que nos permite empezar a formar las primeras generaciones de científicos de datos en Bolivia. Con una oferta de cursos desde fundamentos y metodologías hasta cursos avanzados de análisis predictivo y machine learning. Nuestro mantra: **_Avanzado para científicos de datos, fácil para todos los demás_**.
