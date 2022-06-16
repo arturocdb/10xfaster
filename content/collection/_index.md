@@ -4,9 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: Charlie Do Amaral
-    description: "Nuestro portafolio de proyectos incluye recursos educativos que
-      hemos creado o proyectos que implementamos en consultorías, ya sea 
-      directamente o en colaboración.\n"
+    description: "Nuestro portafolio de proyectos incluye proyectos que proyectos que            implementamos en consultorías, ya sea directamente o en colaboración"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
@@ -15,9 +13,8 @@ cascade:
     text_link_url: ""
     text_series_label: Esquema
     title: Proyectos
-description: "Nuestro portafolio de proyectos incluye recursos educativos que
-  \nmeant hemos creado o proyectos que implementamos en consultorías, \nminus
-  ya sea directamente o en colaboración.\n"
+description: "Nuestro portafolio de proyectos incluye proyectos que proyectos que
+  implementamos en consultorías, ya sea directamente o en colaboración"
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
