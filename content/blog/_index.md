@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: Ver posts recientes
     text_link_url: /blog/
-description: "Una pequeña colección de lo que me gusta hablar y compartir..."
+description: "Una pequeña colección de lo que nos gusta hablar y compartir..."
 layout: list
 show_author_byline: true
 show_button_links: false

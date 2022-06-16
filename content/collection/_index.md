@@ -4,9 +4,9 @@ cascade:
   layout: single-series
   sidebar:
     author: Charlie Do Amaral
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
+    description: "Nuestro portafolio de proyectos incluye recursos educativos que
+      \nmeant hemos creado o proyectos que implementamos en consultorías, \nminus
+      ya sea directamente o en colaboración.\n"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
@@ -15,8 +15,9 @@ cascade:
     text_link_url: ""
     text_series_label: Esquema
     title: Proyectos
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
+description: "Nuestro portafolio de proyectos incluye recursos educativos que
+  \nmeant hemos creado o proyectos que implementamos en consultorías, \nminus
+  ya sea directamente o en colaboración.\n"
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
