@@ -11,6 +11,18 @@ title: Clasificación Asociativa parte 2
 ---
 
 ## Caso de uso
+Uno de los casos de uso más común de los algoritmos de asociación es el **"product placement"** o colocación de productos en estanterías.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
