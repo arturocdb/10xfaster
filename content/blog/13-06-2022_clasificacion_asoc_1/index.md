@@ -30,7 +30,7 @@ Sea `\(D=\{t_{1},t_{2}...,t_{m}\}\)` un conjunto de transacciones llamada _datab
 
 Una regla de ejemplo para el supermercado podría ser `\(\{leche, pan\} \Rightarrow \{mantequilla\}\)` que significa que si compra leche y pan, los clientes también pueden comprar mantequilla.
 
-![Transacciones](01.png)
+<left> <img src="01.png" width="50%" height="50%"/> </left>
 
 Una regla se define cómo una expresión `\(X\Rightarrow Y\)`. `\(X\)` e `\(Y\)` se denominan antecedente (lado izquierdo o LHS) y consecuente (lado derecho o RHS) d ela regla. A menudo, las reglas se limitan a un solo elemento en el consecuente. Las reglas de asociación son reglas que cumplen con los umbrales mínimos de soporte y confianza mínimos especificados por el usuario. 
 
