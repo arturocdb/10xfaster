@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on 10x Faster for Data Science</title>
+    <link>https://10xfaster.netlify.app/collection/</link>
+    <description>Recent content in Proyectos on 10x Faster for Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://10xfaster.netlify.app/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis de la cesta de compra</title>
+      <link>https://10xfaster.netlify.app/collection/analisis_de_la_cesta_de_compra/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/collection/analisis_de_la_cesta_de_compra/</guid>
+      <description>Algoritmo Apriori. El algoritmo Apriori es uno de sus algoritmos que utilizamos en nuestras consultorías, fué propuesto por Agrawall y Srikant en 1994. Es un algoritmo de minería de datos, de reglas de asociación. El agoritmo Apriori opera con bases de datos de transacciones (artículos comprados por clientes), donde cada transacción es un conjunto de ítems.
+El algoritmo apriori es muy utilizado en el marketing, sus usos son del tipo “porque usted compró X, le podría interesar Y”.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de precios</title>
+      <link>https://10xfaster.netlify.app/collection/gestion-precios/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/collection/gestion-precios/</guid>
+      <description>Objetivo y Propósito En nuestras consultorías empezamos con la siguiente pregunta: ¿Como podemos ayudarle a usted como gerente o futuro gerente a responder preguntas específicas relacionadas con el uso de la fijación de precios como una función táctica u operativa en el día a día?.
+Ejemplos de tales preguntas incluyen:
+¿Tenemos la oportunidad de utilizar el precio como una herramienta para aumentar las utilidades operativas en su empresa? ¿Cuál es el impacto en las ganancias operativas de las mejoras de precios en comparación con las mejoras en los costos?</description>
+    </item>
+    
+  </channel>
+</rss>

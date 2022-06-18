@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on 10x Faster for Data Science</title>
+    <link>https://10xfaster.netlify.app/form/</link>
+    <description>Recent content in Forms on 10x Faster for Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="https://10xfaster.netlify.app/form/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contácto</title>
+      <link>https://10xfaster.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/contact/</guid>
+      <description>Puedes ponerte en contácto con nosotros para compartir ideas, proyectos, emprendimientos o simplemente saludar
+Charlie Do Amaral Becerra al número +(591) 73157424, correo arturocdb@gmail.com.
+Luis Fernando Parada Guachalla al número +(591) 73100855, correo estadistick@gmail.com.
+En Youtube canal Estadistiqueando
+En Facebook Aula Estadística.
+Estaremos complacido de abordar juntos alguna temática.</description>
+    </item>
+    
+  </channel>
+</rss>

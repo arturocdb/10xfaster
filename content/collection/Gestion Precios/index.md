@@ -92,7 +92,7 @@ Empezamos con una de las preguntas más importantes: **_¿Qué precio debe cobra
 
 Interesante, encontramos que la cafetería ya estaba dando sus primeros pasos. Realizó una encuesta de mercado sobre las preferencias de los consumidores en relación con el café negro normal. La encuesta indica que establecer un precio de \$1 por taza conducirá a una demanda de 100 tazas por día. Aumentar el precio a \$2 reduce la demanda a 40 tazas/día.
 
-<center> <img src="05.png"/> </center>
+<left> <img src="05.png" width="70%" height="70%"/> </left>
 
 Los resultados de los cálculos los vemos en la figura 1.1 y muestran que cobrar un precio de \$2 es más rentable. Al cobrar un precio de \$2 en lugar de \$1, la utilidad total termina en \$70 en lugar de \$30, aunque el volumen de ventas es 40 tazas más bajo por día en el nivel de precio alto. 
 
@@ -100,13 +100,13 @@ Aunque este ejemplo es simple, nos muestra el gran impacto que el precio puede t
 
 Decidimos presentarle al gerente una gráfica que muestra la relación entre los distintos niveles de precios y la demanda (_Función de respuesta al precio_). El, propósito es ayudar al gerente a comprender cómo la cantidad demanda de café varía según el precio.
 
-<center> <img src="06.png"/> </center>
+<left> <img src="06.png" width="70%" height="70%"/> </left>
 
 El objetivo ahora es establecer el precio que maximizará la utilidad total que se obtiene de la venta de tazas de café. Debemos facilitar que el gerente tome la decisión correcta en función de los datos que tenemos a mano.
 
 Pero antes de ello, veamos la siguiente gráfica:
 
-<center> <img src="07.png"/> </center>
+<left> <img src="07.png" width="70%" height="70%"/> </left>
 
 La gráfica muestra claramente que cobrar un precio \$2 induce la mayor utilidad. De hecho la diferencia entre el precio óptimo y el siguiente mejor precio en este ejemplo es de hasta un 25%. Como ya vimos al inicio de esta publicación, una mejor gestión de precios tiene el mayor impacto financiero en la utilidad operativa en comparación con variables como los costos variables, el volumen de ventas y los costos fijos. Por lo tanto: _Hacer un buen análsis de precios parece una buena inversión._
 
@@ -116,7 +116,7 @@ Finalmente, sería posible diferenciar entre varios tipos de clientes en funció
 
 Las tres dimensiones (tipo de producto/servicio, canal de ventas y tipo/segmento de cliente) se pueden ver el cubo de optimiazión de precios e ingresos (Cubo PRO). El objetivo del análisis de precios es siempre encontrar el precio correcto para cada uno de los elementos relevantes del cubo.
 
-<center> <img src="08.png"/> </center>
+<left> <img src="08.png" width="60%" height="60%"/> </left>
 
 ## Función de respuesta al precio y demanda
 

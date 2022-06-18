@@ -18,9 +18,9 @@ Puede seguir la historia en la página de Facebook oficial del ICE [Aquí](https
 
 Aprovechamos de compartirles aquí algunas fotos del proyecto
 
-<center> <img src="01.jpg"/> </center>
+<left> <img src="01.jpg" width="60%" height="60%" /> </left>
 
-<center> <img src="02.jpg"/> </center>
+<left> <img src="02.jpg" width="60%" height="60%"/> </left>
 
-<center> <img src="03.jpg"/> </center>
+<left> <img src="03.jpg" width="60%" height="60%"/> </left>
 

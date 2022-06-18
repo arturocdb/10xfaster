@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estadística y Ciencia de Datos on 10x Faster for Data Science</title>
+    <link>https://10xfaster.netlify.app/</link>
+    <description>Recent content in Estadística y Ciencia de Datos on 10x Faster for Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 17 Jun 2022 14:15:59 -0600</lastBuildDate><atom:link href="https://10xfaster.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis de la cesta de compra</title>
+      <link>https://10xfaster.netlify.app/collection/analisis_de_la_cesta_de_compra/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/collection/analisis_de_la_cesta_de_compra/</guid>
+      <description>Algoritmo Apriori. El algoritmo Apriori es uno de sus algoritmos que utilizamos en nuestras consultorías, fué propuesto por Agrawall y Srikant en 1994. Es un algoritmo de minería de datos, de reglas de asociación. El agoritmo Apriori opera con bases de datos de transacciones (artículos comprados por clientes), donde cada transacción es un conjunto de ítems.
+El algoritmo apriori es muy utilizado en el marketing, sus usos son del tipo “porque usted compró X, le podría interesar Y”.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de precios</title>
+      <link>https://10xfaster.netlify.app/collection/gestion-precios/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/collection/gestion-precios/</guid>
+      <description>Objetivo y Propósito En nuestras consultorías empezamos con la siguiente pregunta: ¿Como podemos ayudarle a usted como gerente o futuro gerente a responder preguntas específicas relacionadas con el uso de la fijación de precios como una función táctica u operativa en el día a día?.
+Ejemplos de tales preguntas incluyen:
+¿Tenemos la oportunidad de utilizar el precio como una herramienta para aumentar las utilidades operativas en su empresa? ¿Cuál es el impacto en las ganancias operativas de las mejoras de precios en comparación con las mejoras en los costos?</description>
+    </item>
+    
+    <item>
+      <title>Proyecto Story telling con Dashborads en Tableau&#34; UPSA</title>
+      <link>https://10xfaster.netlify.app/talk/tableros-upsa/</link>
+      <pubDate>Fri, 17 Jun 2022 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/tableros-upsa/</guid>
+      <description>Uno de nuestros co-fundadores Luis Fernando Parada Investigador del Instituto Cruceño de Estadística, comentó la importancia de coordinar actividades académicas con las distintas universidades cruceñas, promoviendo la investigación y el uso de herramientas para el data storytelling.
+Puede seguir la historia en la página de Facebook oficial del ICE Aquí.
+Aprovechamos de compartirles aquí algunas fotos del proyecto</description>
+    </item>
+    
+    <item>
+      <title>Clasificación Asociativa parte 2</title>
+      <link>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_2/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_2/</guid>
+      <description>Caso de uso Uno de los casos de uso más común de los algoritmos de asociación es el &amp;ldquo;product placement&amp;rdquo; o colocación de productos en estanterías.</description>
+    </item>
+    
+    <item>
+      <title>Clasificación Asociativa parte 1</title>
+      <link>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_1/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_1/</guid>
+      <description>Clasificación Asociativa En la literatura se han propuesto varios métodos para crear clasificadores basados en reglas descubiertas a través de la minería de reglas de asociación (association rule minning). Estos clasificadores se denominan clasificadores asociativos, y el algoritmo más conocido en lasificación basada en asociaciones es CBA (Classification based on associations). Curiosamente, solo hay unas pocas implementaciones disponibles, y hasta hace poco no había ninguna implementación disponible.
+Aquí presentamos la clasificación asociativa y cómo se puede usar.</description>
+    </item>
+    
+    <item>
+      <title>Curso &#34;Decisiones Rentables de Precios&#34; CENACE UPSA</title>
+      <link>https://10xfaster.netlify.app/talk/decisiones-rentables-de-precios/</link>
+      <pubDate>Wed, 01 Sep 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/decisiones-rentables-de-precios/</guid>
+      <description>Docentes Charlie Arturo Do Amaral Becerra
+Especialista en Administración de Empresas Licenciado en Administrador de Empresas (UAB-España) Certificaciones en Data Science (IBM) Científico de Datos en Unión Agronegocios José Luis Urquidi Cabrera
+Master en Administración de Empresas (INCAE) Licencia en Ingeniería Comercial (UAGRM) Gerente UP Consulting Docente en programas de Postgrado y Maestría Roberto Pérez Llanes
+Doctor en Ciencias Económicas (UH-Cuba) Master in International Marketiing (CMDI-Canada) Licenciado en Economía Industrial (UH-Cuba) Gerente Franquicias America SRL Director Unión Agronegocios Antecedentes La estrategia de precios es el componente central en el desempeño general de las utilidades de una firma.</description>
+    </item>
+    
+    <item>
+      <title>Experto invitado, materia &#34;Investigación de Mercado I&#34; UPSA</title>
+      <link>https://10xfaster.netlify.app/talk/inv-mercado-upsa/</link>
+      <pubDate>Sun, 01 Aug 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/inv-mercado-upsa/</guid>
+      <description>Gracias a Roberto Pérez Llanes por la invitación a compartir con sus alumnos de la materia &amp;ldquo;Investigación de Mercado I&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Quiero ser científico de datos</title>
+      <link>https://10xfaster.netlify.app/talk/campfire/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/campfire/</guid>
+      <description>Estaré encantando de comentarte sobre mi experiencia en como me convertí en científico de datos. Tambien tendremos como invitados a dos científicos de datos de nuestro medio (Luis Fernando Parada G. y Ayar Yuman Paco Sanizo).
+Trazaremos una hoja de ruta para que sigas el camino el correcto para conseguir tu sueño de ser científico de datos.
+Acceso al video en Youtube -&amp;gt; Aquí</description>
+    </item>
+    
+    <item>
+      <title>Reimagina tu modelo de negocio</title>
+      <link>https://10xfaster.netlify.app/talk/seedling/</link>
+      <pubDate>Sat, 05 Sep 2020 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/seedling/</guid>
+      <description>La disrupción y la transformación reciben mucha publicidad, y por una buena razón, las tecnologías digitales han tenido un impacto profundo en el mundo, alterando industrias enteras, y al mismo tiempo permitiendo a empresas como Facebook y Amazon logren un crecimiento exponencial.
+Analizaremos varios casos de éxitos y fracasos en transformación digital, como el caso de Telefónica de españa, Henkel, JP Morgan &amp;amp; Chase, Alibaba, Amazon, John Deere, The Weather Company y como complemento una compañīa de nuestro medio: Telecel S.</description>
+    </item>
+    
+    <item>
+      <title>UNIFRANZ &#34;Diplomado en Marketing Digital e E-business&#34;</title>
+      <link>https://10xfaster.netlify.app/talk/second-seedling/</link>
+      <pubDate>Sat, 01 Feb 2020 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/second-seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tachyons for Style</title>
+      <link>https://10xfaster.netlify.app/project/giraffes/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/project/giraffes/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>Palmer Penguins</title>
+      <link>https://10xfaster.netlify.app/project/penguins/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/project/penguins/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
+Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>https://10xfaster.netlify.app/project/bakeoff/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/project/bakeoff/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+    </item>
+    
+    <item>
+      <title>Contácto</title>
+      <link>https://10xfaster.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/contact/</guid>
+      <description>Puedes ponerte en contácto con nosotros para compartir ideas, proyectos, emprendimientos o simplemente saludar
+Charlie Do Amaral Becerra al número +(591) 73157424, correo arturocdb@gmail.com.
+Luis Fernando Parada Guachalla al número +(591) 73100855, correo estadistick@gmail.com.
+En Youtube canal Estadistiqueando
+En Facebook Aula Estadística.
+Estaremos complacido de abordar juntos alguna temática.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://10xfaster.netlify.app/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/elements/</guid>
+      <description>Font Sizes A A A A A A A A 6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://10xfaster.netlify.app/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://10xfaster.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    
+  </channel>
+</rss>

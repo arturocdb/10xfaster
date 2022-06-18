@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cursos on 10x Faster for Data Science</title>
+    <link>https://10xfaster.netlify.app/categories/cursos/</link>
+    <description>Recent content in cursos on 10x Faster for Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 Sep 2021 14:15:59 -0600</lastBuildDate><atom:link href="https://10xfaster.netlify.app/categories/cursos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curso &#34;Decisiones Rentables de Precios&#34; CENACE UPSA</title>
+      <link>https://10xfaster.netlify.app/talk/decisiones-rentables-de-precios/</link>
+      <pubDate>Wed, 01 Sep 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/talk/decisiones-rentables-de-precios/</guid>
+      <description>Docentes Charlie Arturo Do Amaral Becerra
+Especialista en Administración de Empresas Licenciado en Administrador de Empresas (UAB-España) Certificaciones en Data Science (IBM) Científico de Datos en Unión Agronegocios José Luis Urquidi Cabrera
+Master en Administración de Empresas (INCAE) Licencia en Ingeniería Comercial (UAGRM) Gerente UP Consulting Docente en programas de Postgrado y Maestría Roberto Pérez Llanes
+Doctor en Ciencias Económicas (UH-Cuba) Master in International Marketiing (CMDI-Canada) Licenciado en Economía Industrial (UH-Cuba) Gerente Franquicias America SRL Director Unión Agronegocios Antecedentes La estrategia de precios es el componente central en el desempeño general de las utilidades de una firma.</description>
+    </item>
+    
+  </channel>
+</rss>

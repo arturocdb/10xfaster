@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on 10x Faster for Data Science</title>
+    <link>https://10xfaster.netlify.app/blog/</link>
+    <description>Recent content in Blog on 10x Faster for Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://10xfaster.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clasificación Asociativa parte 2</title>
+      <link>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_2/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_2/</guid>
+      <description>Caso de uso Uno de los casos de uso más común de los algoritmos de asociación es el &amp;ldquo;product placement&amp;rdquo; o colocación de productos en estanterías.</description>
+    </item>
+    
+    <item>
+      <title>Clasificación Asociativa parte 1</title>
+      <link>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_1/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://10xfaster.netlify.app/blog/13-06-2022_clasificacion_asoc_1/</guid>
+      <description>Clasificación Asociativa En la literatura se han propuesto varios métodos para crear clasificadores basados en reglas descubiertas a través de la minería de reglas de asociación (association rule minning). Estos clasificadores se denominan clasificadores asociativos, y el algoritmo más conocido en lasificación basada en asociaciones es CBA (Classification based on associations). Curiosamente, solo hay unas pocas implementaciones disponibles, y hasta hace poco no había ninguna implementación disponible.
+Aquí presentamos la clasificación asociativa y cómo se puede usar.</description>
+    </item>
+    
+  </channel>
+</rss>

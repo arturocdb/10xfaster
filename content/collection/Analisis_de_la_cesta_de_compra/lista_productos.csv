@@ -1,0 +1,13 @@
+V1
+leche,huevos,pan,mantequilla
+salchichas,harina,leche,ketchup
+mermeladas,mantequilla,ketchup,salchichas
+pan,leche,mantequilla
+mantequilla,pan,galletas
+galletas,pan,mantequilla,leche
+leche,galletas
+pan,leche,mantequilla
+huevos,pan,mantequilla,galletas
+leche,mantequilla,pan
+mantequilla,pan,leche
+leche,atun,pan,galletas,ketchup
